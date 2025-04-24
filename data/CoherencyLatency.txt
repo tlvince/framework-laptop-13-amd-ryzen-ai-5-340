@@ -1,0 +1,411 @@
+Number of CPUs: 12
+Selected 0 -> 1
+Selected 1 pairs for parallel testing
+0 to 1: 119.599998 ns
+Selected 0 -> 2
+Selected 1 pairs for parallel testing
+0 to 2: 94.099998 ns
+Selected 0 -> 3
+Selected 1 pairs for parallel testing
+0 to 3: 118.400002 ns
+Selected 0 -> 4
+Selected 1 pairs for parallel testing
+0 to 4: 75.400002 ns
+Selected 0 -> 5
+Selected 1 pairs for parallel testing
+0 to 5: 110.000000 ns
+Selected 0 -> 6
+Selected 1 pairs for parallel testing
+0 to 6: 56.799999 ns
+Selected 0 -> 7
+Selected 1 pairs for parallel testing
+0 to 7: 104.199997 ns
+Selected 0 -> 8
+Selected 1 pairs for parallel testing
+0 to 8: 72.500000 ns
+Selected 0 -> 9
+Selected 1 pairs for parallel testing
+0 to 9: 110.099998 ns
+Selected 0 -> 10
+Selected 1 pairs for parallel testing
+0 to 10: 75.900002 ns
+Selected 0 -> 11
+Selected 1 pairs for parallel testing
+0 to 11: 113.500000 ns
+Selected 1 -> 0
+Selected 1 pairs for parallel testing
+1 to 0: 103.300003 ns
+Selected 1 -> 2
+Selected 1 pairs for parallel testing
+1 to 2: 89.599998 ns
+Selected 1 -> 3
+Selected 1 pairs for parallel testing
+1 to 3: 110.400002 ns
+Selected 1 -> 4
+Selected 1 pairs for parallel testing
+1 to 4: 140.399994 ns
+Selected 1 -> 5
+Selected 1 pairs for parallel testing
+1 to 5: 104.900002 ns
+Selected 1 -> 6
+Selected 1 pairs for parallel testing
+1 to 6: 131.899994 ns
+Selected 1 -> 7
+Selected 1 pairs for parallel testing
+1 to 7: 80.800003 ns
+Selected 1 -> 8
+Selected 1 pairs for parallel testing
+1 to 8: 136.100006 ns
+Selected 1 -> 9
+Selected 1 pairs for parallel testing
+1 to 9: 112.800003 ns
+Selected 1 -> 10
+Selected 1 pairs for parallel testing
+1 to 10: 139.800003 ns
+Selected 1 -> 11
+Selected 1 pairs for parallel testing
+1 to 11: 110.699997 ns
+Selected 2 -> 0
+Selected 1 pairs for parallel testing
+2 to 0: 97.400002 ns
+Selected 2 -> 1
+Selected 1 pairs for parallel testing
+2 to 1: 125.099998 ns
+Selected 2 -> 3
+Selected 1 pairs for parallel testing
+2 to 3: 108.699997 ns
+Selected 2 -> 4
+Selected 1 pairs for parallel testing
+2 to 4: 97.900002 ns
+Selected 2 -> 5
+Selected 1 pairs for parallel testing
+2 to 5: 110.800003 ns
+Selected 2 -> 6
+Selected 1 pairs for parallel testing
+2 to 6: 68.500000 ns
+Selected 2 -> 7
+Selected 1 pairs for parallel testing
+2 to 7: 104.800003 ns
+Selected 2 -> 8
+Selected 1 pairs for parallel testing
+2 to 8: 65.199997 ns
+Selected 2 -> 9
+Selected 1 pairs for parallel testing
+2 to 9: 108.500000 ns
+Selected 2 -> 10
+Selected 1 pairs for parallel testing
+2 to 10: 99.500000 ns
+Selected 2 -> 11
+Selected 1 pairs for parallel testing
+2 to 11: 111.199997 ns
+Selected 3 -> 0
+Selected 1 pairs for parallel testing
+3 to 0: 111.900002 ns
+Selected 3 -> 1
+Selected 1 pairs for parallel testing
+3 to 1: 111.800003 ns
+Selected 3 -> 2
+Selected 1 pairs for parallel testing
+3 to 2: 138.000000 ns
+Selected 3 -> 4
+Selected 1 pairs for parallel testing
+3 to 4: 126.099998 ns
+Selected 3 -> 5
+Selected 1 pairs for parallel testing
+3 to 5: 167.800003 ns
+Selected 3 -> 6
+Selected 1 pairs for parallel testing
+3 to 6: 138.899994 ns
+Selected 3 -> 7
+Selected 1 pairs for parallel testing
+3 to 7: 112.199997 ns
+Selected 3 -> 8
+Selected 1 pairs for parallel testing
+3 to 8: 138.600006 ns
+Selected 3 -> 9
+Selected 1 pairs for parallel testing
+3 to 9: 80.000000 ns
+Selected 3 -> 10
+Selected 1 pairs for parallel testing
+3 to 10: 139.899994 ns
+Selected 3 -> 11
+Selected 1 pairs for parallel testing
+3 to 11: 170.100006 ns
+Selected 4 -> 0
+Selected 1 pairs for parallel testing
+4 to 0: 102.800003 ns
+Selected 4 -> 1
+Selected 1 pairs for parallel testing
+4 to 1: 131.699997 ns
+Selected 4 -> 2
+Selected 1 pairs for parallel testing
+4 to 2: 104.099998 ns
+Selected 4 -> 3
+Selected 1 pairs for parallel testing
+4 to 3: 113.500000 ns
+Selected 4 -> 5
+Selected 1 pairs for parallel testing
+4 to 5: 111.800003 ns
+Selected 4 -> 6
+Selected 1 pairs for parallel testing
+4 to 6: 71.099998 ns
+Selected 4 -> 7
+Selected 1 pairs for parallel testing
+4 to 7: 112.199997 ns
+Selected 4 -> 8
+Selected 1 pairs for parallel testing
+4 to 8: 97.400002 ns
+Selected 4 -> 9
+Selected 1 pairs for parallel testing
+4 to 9: 112.599998 ns
+Selected 4 -> 10
+Selected 1 pairs for parallel testing
+4 to 10: 56.700001 ns
+Selected 4 -> 11
+Selected 1 pairs for parallel testing
+4 to 11: 113.699997 ns
+Selected 5 -> 0
+Selected 1 pairs for parallel testing
+5 to 0: 109.099998 ns
+Selected 5 -> 1
+Selected 1 pairs for parallel testing
+5 to 1: 107.099998 ns
+Selected 5 -> 2
+Selected 1 pairs for parallel testing
+5 to 2: 133.199997 ns
+Selected 5 -> 3
+Selected 1 pairs for parallel testing
+5 to 3: 162.699997 ns
+Selected 5 -> 4
+Selected 1 pairs for parallel testing
+5 to 4: 136.800003 ns
+Selected 5 -> 6
+Selected 1 pairs for parallel testing
+5 to 6: 132.500000 ns
+Selected 5 -> 7
+Selected 1 pairs for parallel testing
+5 to 7: 107.199997 ns
+Selected 5 -> 8
+Selected 1 pairs for parallel testing
+5 to 8: 137.600006 ns
+Selected 5 -> 9
+Selected 1 pairs for parallel testing
+5 to 9: 170.399994 ns
+Selected 5 -> 10
+Selected 1 pairs for parallel testing
+5 to 10: 138.600006 ns
+Selected 5 -> 11
+Selected 1 pairs for parallel testing
+5 to 11: 80.599998 ns
+Selected 6 -> 0
+Selected 1 pairs for parallel testing
+6 to 0: 82.800003 ns
+Selected 6 -> 1
+Selected 1 pairs for parallel testing
+6 to 1: 117.800003 ns
+Selected 6 -> 2
+Selected 1 pairs for parallel testing
+6 to 2: 80.000000 ns
+Selected 6 -> 3
+Selected 1 pairs for parallel testing
+6 to 3: 108.699997 ns
+Selected 6 -> 4
+Selected 1 pairs for parallel testing
+6 to 4: 75.800003 ns
+Selected 6 -> 5
+Selected 1 pairs for parallel testing
+6 to 5: 114.300003 ns
+Selected 6 -> 7
+Selected 1 pairs for parallel testing
+6 to 7: 104.099998 ns
+Selected 6 -> 8
+Selected 1 pairs for parallel testing
+6 to 8: 70.199997 ns
+Selected 6 -> 9
+Selected 1 pairs for parallel testing
+6 to 9: 111.699997 ns
+Selected 6 -> 10
+Selected 1 pairs for parallel testing
+6 to 10: 74.000000 ns
+Selected 6 -> 11
+Selected 1 pairs for parallel testing
+6 to 11: 121.000000 ns
+Selected 7 -> 0
+Selected 1 pairs for parallel testing
+7 to 0: 103.099998 ns
+Selected 7 -> 1
+Selected 1 pairs for parallel testing
+7 to 1: 82.900002 ns
+Selected 7 -> 2
+Selected 1 pairs for parallel testing
+7 to 2: 137.100006 ns
+Selected 7 -> 3
+Selected 1 pairs for parallel testing
+7 to 3: 109.599998 ns
+Selected 7 -> 4
+Selected 1 pairs for parallel testing
+7 to 4: 140.699997 ns
+Selected 7 -> 5
+Selected 1 pairs for parallel testing
+7 to 5: 103.599998 ns
+Selected 7 -> 6
+Selected 1 pairs for parallel testing
+7 to 6: 132.199997 ns
+Selected 7 -> 8
+Selected 1 pairs for parallel testing
+7 to 8: 121.699997 ns
+Selected 7 -> 9
+Selected 1 pairs for parallel testing
+7 to 9: 107.400002 ns
+Selected 7 -> 10
+Selected 1 pairs for parallel testing
+7 to 10: 140.399994 ns
+Selected 7 -> 11
+Selected 1 pairs for parallel testing
+7 to 11: 107.800003 ns
+Selected 8 -> 0
+Selected 1 pairs for parallel testing
+8 to 0: 96.000000 ns
+Selected 8 -> 1
+Selected 1 pairs for parallel testing
+8 to 1: 125.099998 ns
+Selected 8 -> 2
+Selected 1 pairs for parallel testing
+8 to 2: 62.799999 ns
+Selected 8 -> 3
+Selected 1 pairs for parallel testing
+8 to 3: 107.400002 ns
+Selected 8 -> 4
+Selected 1 pairs for parallel testing
+8 to 4: 99.000000 ns
+Selected 8 -> 5
+Selected 1 pairs for parallel testing
+8 to 5: 109.900002 ns
+Selected 8 -> 6
+Selected 1 pairs for parallel testing
+8 to 6: 69.500000 ns
+Selected 8 -> 7
+Selected 1 pairs for parallel testing
+8 to 7: 105.000000 ns
+Selected 8 -> 9
+Selected 1 pairs for parallel testing
+8 to 9: 109.199997 ns
+Selected 8 -> 10
+Selected 1 pairs for parallel testing
+8 to 10: 87.900002 ns
+Selected 8 -> 11
+Selected 1 pairs for parallel testing
+8 to 11: 109.800003 ns
+Selected 9 -> 0
+Selected 1 pairs for parallel testing
+9 to 0: 111.699997 ns
+Selected 9 -> 1
+Selected 1 pairs for parallel testing
+9 to 1: 114.199997 ns
+Selected 9 -> 2
+Selected 1 pairs for parallel testing
+9 to 2: 138.800003 ns
+Selected 9 -> 3
+Selected 1 pairs for parallel testing
+9 to 3: 95.300003 ns
+Selected 9 -> 4
+Selected 1 pairs for parallel testing
+9 to 4: 140.300003 ns
+Selected 9 -> 5
+Selected 1 pairs for parallel testing
+9 to 5: 167.500000 ns
+Selected 9 -> 6
+Selected 1 pairs for parallel testing
+9 to 6: 137.600006 ns
+Selected 9 -> 7
+Selected 1 pairs for parallel testing
+9 to 7: 114.300003 ns
+Selected 9 -> 8
+Selected 1 pairs for parallel testing
+9 to 8: 138.800003 ns
+Selected 9 -> 10
+Selected 1 pairs for parallel testing
+9 to 10: 131.899994 ns
+Selected 9 -> 11
+Selected 1 pairs for parallel testing
+9 to 11: 162.600006 ns
+Selected 10 -> 0
+Selected 1 pairs for parallel testing
+10 to 0: 102.099998 ns
+Selected 10 -> 1
+Selected 1 pairs for parallel testing
+10 to 1: 132.100006 ns
+Selected 10 -> 2
+Selected 1 pairs for parallel testing
+10 to 2: 104.300003 ns
+Selected 10 -> 3
+Selected 1 pairs for parallel testing
+10 to 3: 113.099998 ns
+Selected 10 -> 4
+Selected 1 pairs for parallel testing
+10 to 4: 56.900002 ns
+Selected 10 -> 5
+Selected 1 pairs for parallel testing
+10 to 5: 112.199997 ns
+Selected 10 -> 6
+Selected 1 pairs for parallel testing
+10 to 6: 73.099998 ns
+Selected 10 -> 7
+Selected 1 pairs for parallel testing
+10 to 7: 114.099998 ns
+Selected 10 -> 8
+Selected 1 pairs for parallel testing
+10 to 8: 105.199997 ns
+Selected 10 -> 9
+Selected 1 pairs for parallel testing
+10 to 9: 113.099998 ns
+Selected 10 -> 11
+Selected 1 pairs for parallel testing
+10 to 11: 113.099998 ns
+Selected 11 -> 0
+Selected 1 pairs for parallel testing
+11 to 0: 98.199997 ns
+Selected 11 -> 1
+Selected 1 pairs for parallel testing
+11 to 1: 106.800003 ns
+Selected 11 -> 2
+Selected 1 pairs for parallel testing
+11 to 2: 135.699997 ns
+Selected 11 -> 3
+Selected 1 pairs for parallel testing
+11 to 3: 159.000000 ns
+Selected 11 -> 4
+Selected 1 pairs for parallel testing
+11 to 4: 139.100006 ns
+Selected 11 -> 5
+Selected 1 pairs for parallel testing
+11 to 5: 78.800003 ns
+Selected 11 -> 6
+Selected 1 pairs for parallel testing
+11 to 6: 141.199997 ns
+Selected 11 -> 7
+Selected 1 pairs for parallel testing
+11 to 7: 103.199997 ns
+Selected 11 -> 8
+Selected 1 pairs for parallel testing
+11 to 8: 135.800003 ns
+Selected 11 -> 9
+Selected 1 pairs for parallel testing
+11 to 9: 162.399994 ns
+Selected 11 -> 10
+Selected 1 pairs for parallel testing
+11 to 10: 137.100006 ns
+Cache line offset: 0
+x,59.799999,47.049999,59.200001,37.700001,55.000000,28.400000,52.099998,36.250000,55.049999,37.950001,56.750000
+51.650002,x,44.799999,55.200001,70.199997,52.450001,65.949997,40.400002,68.050003,56.400002,69.900002,55.349998
+48.700001,62.549999,x,54.349998,48.950001,55.400002,34.250000,52.400002,32.599998,54.250000,49.750000,55.599998
+55.950001,55.900002,69.000000,x,63.049999,83.900002,69.449997,56.099998,69.300003,40.000000,69.949997,85.050003
+51.400002,65.849998,52.049999,56.750000,x,55.900002,35.549999,56.099998,48.700001,56.299999,28.350000,56.849998
+54.549999,53.549999,66.599998,81.349998,68.400002,x,66.250000,53.599998,68.800003,85.199997,69.300003,40.299999
+41.400002,58.900002,40.000000,54.349998,37.900002,57.150002,x,52.049999,35.099998,55.849998,37.000000,60.500000
+51.549999,41.450001,68.550003,54.799999,70.349998,51.799999,66.099998,x,60.849998,53.700001,70.199997,53.900002
+48.000000,62.549999,31.400000,53.700001,49.500000,54.950001,34.750000,52.500000,x,54.599998,43.950001,54.900002
+55.849998,57.099998,69.400002,47.650002,70.150002,83.750000,68.800003,57.150002,69.400002,x,65.949997,81.300003
+51.049999,66.050003,52.150002,56.549999,28.450001,56.099998,36.549999,57.049999,52.599998,56.549999,x,56.549999
+49.099998,53.400002,67.849998,79.500000,69.550003,39.400002,70.599998,51.599998,67.900002,81.199997,68.550003,x
+
