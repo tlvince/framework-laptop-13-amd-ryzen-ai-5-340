@@ -51,6 +51,19 @@ One `foot` terminal running `powerstat`
 | [idle 60Hz (ppd balanced)](./data/nixos-linux-6.14.0-gnome-47-ppd-0.30-vrr-60hz-balanced-idle.txt)   | 99.47% | 4.08      |
 | [idle 120Hz (ppd balanced)](./data/nixos-linux-6.14.0-gnome-47-ppd-0.30-vrr-120hz-balanced-idle.txt) | 99.68% | 4.00      |
 
+#### 2025-04-26
+
+- NixOS 6.14.3
+- power-saver with [panel-power-savings](https://gitlab.freedesktop.org/upower/power-profiles-daemon/-/blob/ea0d7504a8b9ec4378cd17db3386efc761195dae/README.md#panel-power-savings) and [AMDGPU Dynamic power management](https://gitlab.freedesktop.org/upower/power-profiles-daemon/-/blob/ea0d7504a8b9ec4378cd17db3386efc761195dae/README.md#amdgpu-dynamic-power-management)
+- power button LED off (`ectool led power off`)
+- other baseline settings [as above](#battery)
+
+| State                                                                                                                                               | C3%    | Power (W) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------- |
+| [idle 60Hz (ppd power-saver)](./data/nixos-linux-6.14.3-gnome-47-ppd-0.30-vrr-60hz-power-saver-idle.txt)                                            | 99.52% | 3.83      |
+| [idle 60Hz (ppd power-saver) no WiFi](./data/nixos-linux-6.14.3-gnome-47-ppd-0.30-vrr-60hz-power-saver-idle-no-wifi.txt)                            | 99.58% | 3.72      |
+| [idle 60Hz (ppd power-saver) no WiFi 0% brightness](./data/nixos-linux-6.14.3-gnome-47-ppd-0.30-vrr-60hz-power-saver-idle-no-wifi-0-brightness.txt) | 99.58% | 2.96      |
+
 ### Video benchmarks
 
 - One `foot` terminal running `powerstat`
