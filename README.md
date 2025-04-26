@@ -79,6 +79,12 @@ One `foot` terminal running `powerstat`
 | [Firefox 60Hz (ppd balanced)](./data/nixos-linux-6.14.0-gnome-47-ppd-0.30-vrr-60hz-balanced-firefox.txt)   | 89.35% | 6.75      |
 | [Firefox 120Hz (ppd balanced)](./data/nixos-linux-6.14.0-gnome-47-ppd-0.30-vrr-120hz-balanced-firefox.txt) | 83.55% | 7.38      |
 
+## Core-to-Core Latency
+
+![amd-ryzen-ai-5-340 core-to-core latency](./data/amd-ryzen-ai-5-340-core-to-core-latencies.png)
+
+[Data](./data/CoherencyLatency.txt) via [clamchowder/Microbenchmarks](https://github.com/clamchowder/Microbenchmarks/blob/b1e71b50a3b27c46c7ca9f91f5552451f1c5f3b0/CoherencyLatency/PThreadsCoherencyLatency.c)
+
 ## Links
 
 - [tlvince/nixos-config](https://github.com/tlvince/nixos-config)
