@@ -7,7 +7,7 @@ Device notes and configuration under Linux for the [Framework Laptop 13 AMD Ryze
 - [AMD Ryzen AI 5 340](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-5-340.html) (Krackan Point, Zen 5)
 - [SK hynix Platinum P41](https://ssd.skhynix.com/platinum_p41/) 1TB SSD
 - [Crucial CT2K16G56C46S5](https://uk.crucial.com/memory/DDR5/CT2K16G56C46S5) 32GB DDR5-5600 SODIMM
-- [BOE NE135A1M-NY1 v18.0 (matte)](https://www.panelook.com/NE135A1M-NY1_BOE_13.5_LCM_overview_66744.html) 13.5", 3:2, 2880x1920 256 ppi, 500 nits, eDP1.4, [40 pins](https://github.com/FrameworkComputer/Framework-Laptop-13/tree/57357b797447b55ec7afcaf31b2fe731e7a48144/Display#pinout), [DC-mode dimming](https://github.com/FrameworkComputer/Framework-Laptop-13/tree/57357b797447b55ec7afcaf31b2fe731e7a48144/Mainboard#display-interface) (not PWM)
+- [BOE NE135A1M-NY1 v18.0 (matte)](https://www.panelook.com/NE135A1M-NY1_BOE_13.5_LCM_overview_66744.html) 13.5", 3:2, 2880x1920 256 ppi, 500 nits, eDP1.4, [40 pins](https://github.com/FrameworkComputer/Framework-Laptop-13/tree/025d047cf98fe63ed4de03fd18fc6c4c79880930/Display#pinout), [DC-mode dimming](https://github.com/FrameworkComputer/Framework-Laptop-13/tree/57357b797447b55ec7afcaf31b2fe731e7a48144/Mainboard#display-interface) (not PWM)
 - 61Wh battery
 - RZ717/MT7925 WiFi adapter
 - 4x [USB-C Expansion Cards](https://frame.work/gb/en/products/usb-c-expansion-card)
