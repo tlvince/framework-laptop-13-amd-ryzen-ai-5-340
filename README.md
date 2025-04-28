@@ -98,6 +98,16 @@ One `foot` terminal running `powerstat`
 
 [Data](./data/CoherencyLatency.txt) via [clamchowder/Microbenchmarks](https://github.com/clamchowder/Microbenchmarks/blob/b1e71b50a3b27c46c7ca9f91f5552451f1c5f3b0/CoherencyLatency/PThreadsCoherencyLatency.c)
 
+## Load
+
+Phoronix Timed Linux Kernel Compilation
+
+### 2025-04-28
+
+[OpenBenchmarking results](https://openbenchmarking.org/result/2504282-NE-FRAMEWORK09)
+
+![amd-ryzen-ai-5-340 timed kernel](./data/phoronix-kernel.png)
+
 ## Links
 
 - [tlvince/nixos-config](https://github.com/tlvince/nixos-config)
