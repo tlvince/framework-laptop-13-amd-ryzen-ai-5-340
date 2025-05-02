@@ -13,6 +13,10 @@ Device notes and configuration under Linux for the [Framework Laptop 13 AMD Ryze
 - 4x [USB-C Expansion Cards](https://frame.work/gb/en/products/usb-c-expansion-card)
 - [Capella CM3218](https://github.com/FrameworkComputer/Framework-Laptop-13/blob/b3872f334810103c758e39a33572b42a5e4d67e0/Webcam/README.md#pinout) ambient light sensor
 
+## Bugs
+
+- [ ] Battery charge limit ignored on subsequent boots (https://github.com/FrameworkComputer/SoftwareFirmwareIssueTracker/issues/67)
+
 ## Sleep
 
 Slept for 7.68 hours. Used 4.10Wh, an average rate of 0.53W (via [batterylog](https://github.com/lhl/batterylog))
