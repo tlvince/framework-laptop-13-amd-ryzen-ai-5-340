@@ -16,6 +16,7 @@ Device notes and configuration under Linux for the [Framework Laptop 13 AMD Ryze
 ## Bugs
 
 - [ ] Battery charge limit ignored on subsequent boots (https://github.com/FrameworkComputer/SoftwareFirmwareIssueTracker/issues/67)
+- [ ] amdgpu: ring vcn_unified_0 timeout [drm/amd#3926](https://gitlab.freedesktop.org/drm/amd/-/issues/3926), [mesa/mesa#12528](https://gitlab.freedesktop.org/mesa/mesa/-/issues/12528)
 
 ## Sleep
 
