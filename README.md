@@ -16,8 +16,9 @@ Device notes and configuration under Linux for the [Framework Laptop 13 AMD Ryze
 ## Bugs
 
 - [ ] Battery charge limit ignored on subsequent boots (https://github.com/FrameworkComputer/SoftwareFirmwareIssueTracker/issues/67)
-- [ ] amdgpu: ring vcn_unified_0 timeout [drm/amd#3926](https://gitlab.freedesktop.org/drm/amd/-/issues/3926), [mesa/mesa#12528](https://gitlab.freedesktop.org/mesa/mesa/-/issues/12528)
-- [ ] [MT7925: mDNS and IPv6 broken in kernel 6.14.3 and above](https://lore.kernel.org/lkml/EmWnO5b-acRH1TXbGnkx41eJw654vmCR-8_xMBaPMwexCnfkvKCdlU5u19CGbaapJ3KRu-l3B-tSUhf8CCQwL0odjo6Cd5YG5lvNeB-vfdg=@pm.me/), fixed in [torvalds/linux@0aa8496](https://github.com/torvalds/linux/commit/0aa8496adda570c2005410a30df963a16643a3d)
+- [x] amdgpu: ring vcn_unified_0 timeout [drm/amd#3926](https://gitlab.freedesktop.org/drm/amd/-/issues/3926), [mesa/mesa#12528](https://gitlab.freedesktop.org/mesa/mesa/-/issues/12528), fixed in [torvalds/linux@ee7360f](https://github.com/torvalds/linux/commit/ee7360fc27d6045510f8fe459b5649b2af27811a) (6.15)
+- [x] [MT7925: mDNS and IPv6 broken in kernel 6.14.3 and above](https://lore.kernel.org/lkml/EmWnO5b-acRH1TXbGnkx41eJw654vmCR-8_xMBaPMwexCnfkvKCdlU5u19CGbaapJ3KRu-l3B-tSUhf8CCQwL0odjo6Cd5YG5lvNeB-vfdg=@pm.me/), fixed in [torvalds/linux@0aa8496](https://github.com/torvalds/linux/commit/0aa8496adda570c2005410a30df963a16643a3d) (6.15)
+- [ ] [Unsupported userspace charge control](https://github.com/FrameworkComputer/SoftwareFirmwareIssueTracker/issues/70), fixed by [mfd: cros_ec: Separate charge-control probing from USB-PD](https://lore.kernel.org/lkml/20250521-cros-ec-mfd-chctl-probe-v1-1-6ebfe3a6efa7@weissschuh.net/)
 
 ## Sleep
 
