@@ -20,7 +20,7 @@ Device notes and configuration under Linux for the [Framework Laptop 13 AMD Ryze
 - [x] [MT7925: mDNS and IPv6 broken in kernel 6.14.3 and above](https://lore.kernel.org/lkml/EmWnO5b-acRH1TXbGnkx41eJw654vmCR-8_xMBaPMwexCnfkvKCdlU5u19CGbaapJ3KRu-l3B-tSUhf8CCQwL0odjo6Cd5YG5lvNeB-vfdg=@pm.me/), fixed in [torvalds/linux@0aa8496](https://github.com/torvalds/linux/commit/0aa8496adda570c2005410a30df963a16643a3d) (linux 6.15)
 - [ ] [Unsupported userspace charge control](https://github.com/FrameworkComputer/SoftwareFirmwareIssueTracker/issues/85)
 - [ ] MT7925: `mt7925e 0000:c0:00.0: driver own failed`
-- [ ] amdgpu: [Intermittent screen flickers and bottom half turning grey](https://gitlab.freedesktop.org/drm/amd/-/issues/4451)
+- [ ] amdgpu: [Intermittent screen flickers and bottom half turning grey](https://gitlab.freedesktop.org/drm/amd/-/issues/4463)
 
 ## Sleep
 
